@@ -1,0 +1,6 @@
+{
+  "courses": [
+    { "id": "sap_mm", "title": "SAP Material Management (MM)" },
+    { "id": "prompt_eng", "title": "Prompt Engineering" }
+  ]
+}
