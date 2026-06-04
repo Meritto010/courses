@@ -1,5 +1,43 @@
 [
-  { "id": 1, "title": "SAP Material Management (MM)" },
-  { "id": 2, "title": "Prompt Engineering" },
-  { "id": 3, "title": "Data Analytics" }
+  {
+    "id": 1,
+    "term": "SAP Material Management (MM)",
+    "category": "Industry Skills",
+    "definition": "A core module in SAP ERP that manages procurement and inventory activities.",
+    "hasPartner": false
+  },
+  {
+    "id": 2,
+    "term": "Prompt Engineering",
+    "category": "Industry Skills",
+    "definition": "Crafting precise, structured text inputs to guide AI models to generate accurate professional data.",
+    "hasPartner": true,
+    "partnerName": "Certified AI Specialist Track",
+    "ctaText": "Interested in AI Training? Get Details"
+  },
+  {
+    "id": 3,
+    "term": "Data Analytics",
+    "category": "Industry Skills",
+    "definition": "The science of analyzing raw data to make conclusions about that information.",
+    "hasPartner": false
+  },
+  {
+    "id": 4,
+    "term": "Communication Skills",
+    "category": "Soft Skills",
+    "definition": "The ability to convey information clearly, listen effectively, and adapt your message for different professional audiences.",
+    "hasPartner": true,
+    "partnerName": "Advanced Business Communication Certification",
+    "ctaText": "Enroll for Certification"
+  },
+  {
+    "id": 5,
+    "term": "Design Thinking",
+    "category": "Entrepreneurship",
+    "definition": "A human-centered approach to innovation that integrates the needs of people, the possibilities of technology, and the requirements for business success.",
+    "hasPartner": true,
+    "partnerName": "Entrepreneurial Innovation Lab",
+    "ctaText": "Join Innovation Lab"
+  }
 ]
