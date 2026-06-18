@@ -1,28 +1,5 @@
 [
   {
-    "id": 1,
-    "term": "SAP Material Management (MM)",
-    "category": "Industry Skills",
-    "definition": "A core module in SAP ERP that manages procurement and inventory activities.",
-    "hasPartner": false
-  },
-  {
-    "id": 2,
-    "term": "Prompt Engineering",
-    "category": "Industry Skills",
-    "definition": "Crafting precise, structured text inputs to guide AI models to generate accurate professional data.",
-    "hasPartner": true,
-    "partnerName": "Certified AI Specialist Track",
-    "ctaText": "Interested in AI Training? Get Details"
-  },
-  {
-    "id": 3,
-    "term": "Data Analytics",
-    "category": "Industry Skills",
-    "definition": "The science of analyzing raw data to make conclusions about that information.",
-    "hasPartner": false
-  },
-  {
     "id": 4,
     "term": "Communication Skills",
     "category": "Soft Skills",
@@ -34,10 +11,24 @@
   {
     "id": 5,
     "term": "Design Thinking",
-    "category": "Entrepreneurship",
+    "category": "Design Thinking",
     "definition": "A human-centered approach to innovation that integrates the needs of people, the possibilities of technology, and the requirements for business success.",
     "hasPartner": true,
     "partnerName": "Entrepreneurial Innovation Lab",
     "ctaText": "Join Innovation Lab"
+  },
+  {
+    "id": 6,
+    "term": "Write Better English",
+    "category": "Write Better English",
+    "definition": "The practice of refining grammar, vocabulary, and structure to communicate ideas with clarity and professional precision.",
+    "hasPartner": false
+  },
+  {
+    "id": 7,
+    "term": "Entrepreneurship Basics",
+    "category": "Entrepreneurship",
+    "definition": "The fundamental principles of identifying business opportunities, managing resources, and building sustainable ventures.",
+    "hasPartner": false
   }
 ]
