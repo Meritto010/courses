@@ -3,70 +3,90 @@
     "id": 1,
     "term": "Communication & Soft Skills",
     "category": "Communication & Soft Skills",
-    "definition": "Courses focused on communication, interpersonal skills, leadership, teamwork, workplace etiquette, and professional development.",
-    "hasPartner": false
+    "definition": "Courses focused on communication, interpersonal skills, leadership, teamwork, and workplace readiness.",
+    "hasPartner": true,
+    "partnerName": "General Enquiry",
+    "ctaText": "Enquire Now"
   },
   {
     "id": 2,
     "term": "English Language",
     "category": "English Language",
-    "definition": "Courses designed to improve grammar, speaking, writing, vocabulary, pronunciation, and overall English proficiency.",
-    "hasPartner": false
+    "definition": "Courses to improve grammar, speaking, writing, vocabulary, pronunciation, and overall English proficiency.",
+    "hasPartner": true,
+    "partnerName": "General Enquiry",
+    "ctaText": "Enquire Now"
   },
   {
     "id": 3,
     "term": "Career Development",
     "category": "Career Development",
-    "definition": "Courses that prepare learners for employment through resume building, interview preparation, aptitude, and workplace readiness.",
-    "hasPartner": false
+    "definition": "Courses covering resume writing, interview preparation, aptitude, and workplace readiness.",
+    "hasPartner": true,
+    "partnerName": "General Enquiry",
+    "ctaText": "Enquire Now"
   },
   {
     "id": 4,
     "term": "Entrepreneurship",
     "category": "Entrepreneurship",
-    "definition": "Courses covering business planning, startup fundamentals, innovation, and entrepreneurial mindset.",
-    "hasPartner": false
+    "definition": "Courses on startup fundamentals, business planning, innovation, and entrepreneurial skills.",
+    "hasPartner": true,
+    "partnerName": "General Enquiry",
+    "ctaText": "Enquire Now"
   },
   {
     "id": 5,
     "term": "Digital Marketing",
     "category": "Digital Marketing",
-    "definition": "Courses on SEO, social media marketing, content marketing, email marketing, paid advertising, and analytics.",
-    "hasPartner": false
+    "definition": "Courses on SEO, social media marketing, content marketing, email marketing, advertising, and analytics.",
+    "hasPartner": true,
+    "partnerName": "General Enquiry",
+    "ctaText": "Enquire Now"
   },
   {
     "id": 6,
     "term": "Information Technology (IT)",
     "category": "Information Technology",
-    "definition": "Courses covering computer fundamentals, programming, networking, databases, software, and IT systems.",
-    "hasPartner": false
+    "definition": "Courses covering programming, networking, databases, software development, and IT fundamentals.",
+    "hasPartner": true,
+    "partnerName": "General Enquiry",
+    "ctaText": "Enquire Now"
   },
   {
     "id": 7,
     "term": "Artificial Intelligence & Data Science",
     "category": "Artificial Intelligence & Data Science",
-    "definition": "Courses on artificial intelligence, machine learning, data analytics, and data science applications.",
-    "hasPartner": false
+    "definition": "Courses on AI, machine learning, data analytics, generative AI, and data science.",
+    "hasPartner": true,
+    "partnerName": "General Enquiry",
+    "ctaText": "Enquire Now"
   },
   {
     "id": 8,
     "term": "Healthcare & Medical",
     "category": "Healthcare & Medical",
-    "definition": "Courses related to healthcare, medicine, nursing, allied health sciences, and medical technologies.",
-    "hasPartner": false
+    "definition": "Courses related to healthcare, medicine, nursing, allied health sciences, and medical technology.",
+    "hasPartner": true,
+    "partnerName": "General Enquiry",
+    "ctaText": "Enquire Now"
   },
   {
     "id": 9,
     "term": "Construction & Infrastructure",
     "category": "Construction & Infrastructure",
-    "definition": "Courses in civil engineering, architecture, project execution, building technologies, and infrastructure development.",
-    "hasPartner": false
+    "definition": "Courses in civil engineering, architecture, building technology, and infrastructure development.",
+    "hasPartner": true,
+    "partnerName": "General Enquiry",
+    "ctaText": "Enquire Now"
   },
   {
     "id": 10,
     "term": "Finance & Accounting",
     "category": "Finance & Accounting",
-    "definition": "Courses covering accounting principles, taxation, financial management, auditing, banking, and investment fundamentals.",
-    "hasPartner": false
+    "definition": "Courses covering accounting, taxation, financial management, banking, auditing, and investments.",
+    "hasPartner": true,
+    "partnerName": "General Enquiry",
+    "ctaText": "Enquire Now"
   }
 ]
