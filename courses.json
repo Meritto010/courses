@@ -1,34 +1,72 @@
 [
   {
+    "id": 1,
+    "term": "Communication & Soft Skills",
+    "category": "Communication & Soft Skills",
+    "definition": "Courses focused on communication, interpersonal skills, leadership, teamwork, workplace etiquette, and professional development.",
+    "hasPartner": false
+  },
+  {
+    "id": 2,
+    "term": "English Language",
+    "category": "English Language",
+    "definition": "Courses designed to improve grammar, speaking, writing, vocabulary, pronunciation, and overall English proficiency.",
+    "hasPartner": false
+  },
+  {
+    "id": 3,
+    "term": "Career Development",
+    "category": "Career Development",
+    "definition": "Courses that prepare learners for employment through resume building, interview preparation, aptitude, and workplace readiness.",
+    "hasPartner": false
+  },
+  {
     "id": 4,
-    "term": "Communication Skills",
-    "category": "Soft Skills",
-    "definition": "The ability to convey information clearly, listen effectively, and adapt your message for different professional audiences.",
-    "hasPartner": true,
-    "partnerName": "Advanced Business Communication Certification",
-    "ctaText": "Enroll for Certification"
+    "term": "Entrepreneurship",
+    "category": "Entrepreneurship",
+    "definition": "Courses covering business planning, startup fundamentals, innovation, and entrepreneurial mindset.",
+    "hasPartner": false
   },
   {
     "id": 5,
-    "term": "Design Thinking",
-    "category": "Design Thinking",
-    "definition": "A human-centered approach to innovation that integrates the needs of people, the possibilities of technology, and the requirements for business success.",
-    "hasPartner": true,
-    "partnerName": "Entrepreneurial Innovation Lab",
-    "ctaText": "Join Innovation Lab"
+    "term": "Digital Marketing",
+    "category": "Digital Marketing",
+    "definition": "Courses on SEO, social media marketing, content marketing, email marketing, paid advertising, and analytics.",
+    "hasPartner": false
   },
   {
     "id": 6,
-    "term": "Write Better English",
-    "category": "Write Better English",
-    "definition": "The practice of refining grammar, vocabulary, and structure to communicate ideas with clarity and professional precision.",
+    "term": "Information Technology (IT)",
+    "category": "Information Technology",
+    "definition": "Courses covering computer fundamentals, programming, networking, databases, software, and IT systems.",
     "hasPartner": false
   },
   {
     "id": 7,
-    "term": "Entrepreneurship Basics",
-    "category": "Entrepreneurship",
-    "definition": "The fundamental principles of identifying business opportunities, managing resources, and building sustainable ventures.",
+    "term": "Artificial Intelligence & Data Science",
+    "category": "Artificial Intelligence & Data Science",
+    "definition": "Courses on artificial intelligence, machine learning, data analytics, and data science applications.",
+    "hasPartner": false
+  },
+  {
+    "id": 8,
+    "term": "Healthcare & Medical",
+    "category": "Healthcare & Medical",
+    "definition": "Courses related to healthcare, medicine, nursing, allied health sciences, and medical technologies.",
+    "hasPartner": false
+  },
+  {
+    "id": 9,
+    "term": "Construction & Infrastructure",
+    "category": "Construction & Infrastructure",
+    "definition": "Courses in civil engineering, architecture, project execution, building technologies, and infrastructure development.",
+    "hasPartner": false
+  },
+  {
+    "id": 10,
+    "term": "Finance & Accounting",
+    "category": "Finance & Accounting",
+    "definition": "Courses covering accounting principles, taxation, financial management, auditing, banking, and investment fundamentals.",
     "hasPartner": false
   }
 ]
